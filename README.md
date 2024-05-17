@@ -4,7 +4,7 @@ Eu me chamo Luan e desejo me tornar um programador full stack, e mesmo já possu
 
 ## Tecnologias de estudos atuais
 
-  ![Static Badge](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=white)  
+  ![Static Badge](https://img.shields.io/badge/React-Native-blue?style=for-the-badge&logo=React&logoColor=white)  
   ![Static Badge](https://img.shields.io/badge/NextJs-black?style=for-the-badge&logo=Next.js&logoColor=white)  
   ![Static Badge](https://img.shields.io/badge/NodeJs-green?style=for-the-badge&logo=Node.js&logoColor=white)  
 
