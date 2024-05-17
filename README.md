@@ -10,7 +10,7 @@ Eu me chamo Luan e desejo me tornar um programador full stack, e mesmo já possu
 
 ## Quais são os meus objetivos 🔭?
 
-Tenho como objetivo retomar meus estudos desde o backend, passndo pelo frontend e o mobile. Tenho como meta superar todos os obstáculos e dificuldades no caminho, e então me tornar um dev full stack, porém mantendo o conhecimento de que sempre terei algo a mais a estudar. Além deste, também tenho como objetivo aumentar meu Networking e entrar mais na comunidade.
+Tenho como objetivo retomar meus estudos desde o backend, passando pelo frontend e o mobile. Tenho como meta superar todos os obstáculos e dificuldades no caminho, e então me tornar um dev full stack, porém mantendo o conhecimento de que sempre terei algo a mais a estudar. Além deste, também tenho como objetivo aumentar meu Networking e entrar mais na comunidade.
 
 Sigo em frente com esta frase sempre em mente: 
 > Tenho mais conhecimento hoje do que ontem, e certamente terei menos do que amanhã.
