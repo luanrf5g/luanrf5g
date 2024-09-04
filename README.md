@@ -17,7 +17,13 @@ Sigo em frente com esta frase sempre em mente:
 
 ## O que estou estudando atualmente 🌱?
 
-Atualmente estou começando pelo básico de Typescript, para aplicar nos meus estudos de React e React-Native. E já colocando como estudos também o NextJs como um ótimo framework para se ter conhecimento.
+Atualmente estou começando com o estudo de NodeJs, passando pelos principais conceitos. E assim que estiver consolidado o estudo do NodeJs irei partir para o ReactJs para então o ReactNative.
+
+### Aprendizados Concluídos
+
+- Fundamentos do NodeJs, sem frameworks ou bibliotecas externas.
+- Rotas e HTTP criando uma aplicação usando Fastify, Knex e outras ferramentas.
+- Conceito de SOLID, Design Pattern e Utilização do Docker para o banco de dados.
 
 ## O que estou buscando 🤔?
 
