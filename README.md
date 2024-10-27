@@ -17,13 +17,14 @@ Sigo em frente com esta frase sempre em mente:
 
 ## O que estou estudando atualmente 🌱?
 
-Atualmente estou começando com o estudo de NodeJs, passando pelos principais conceitos. E assim que estiver consolidado o estudo do NodeJs irei partir para o ReactJs para então o ReactNative.
+Atualmente estou aprendendo os fundamentos do NestJs e aplicando de forma prática o conceito de Injeção de dependência, criação de controllers, modules e services, além de implementar o código anteriormente criado (04-clean-DDD) na parte de infraestrutura da aplicação. Utilizando ferramentas como Zod para validação e Vitest para tests unitários e end-to-end.
 
 ### Aprendizados Concluídos
 
 - Fundamentos do NodeJs, sem frameworks ou bibliotecas externas.
 - Rotas e HTTP criando uma aplicação usando Fastify, Knex e outras ferramentas.
 - Conceito de SOLID, Design Pattern e Utilização do Docker para o banco de dados.
+- Fundamentos do Domain-Driven Design e Clean Architecture em uma API REST.
 
 ## O que estou buscando 🤔?
 
