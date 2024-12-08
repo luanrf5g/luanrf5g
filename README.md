@@ -4,9 +4,16 @@ Eu me chamo Luan e desejo me tornar um programador full stack, e mesmo já possu
 
 ## Tecnologias de estudos atuais
 
-  ![Static Badge](https://img.shields.io/badge/ReactNative-blue?style=for-the-badge&logo=React&logoColor=white)  
-  ![Static Badge](https://img.shields.io/badge/NextJs-black?style=for-the-badge&logo=Next.js&logoColor=white)  
-  ![Static Badge](https://img.shields.io/badge/NodeJs-green?style=for-the-badge&logo=Node.js&logoColor=white)  
+<div align="center">
+  
+  <!-- 
+    ![Static Badge](https://img.shields.io/badge/ReactNative-blue?style=for-the-badge&logo=React&logoColor=white)
+  -->
+  ![Static Badge](https://img.shields.io/badge/NodeJs-green?style=for-the-badge&logo=Node.js&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/NextJs-black?style=for-the-badge&logo=Next.js&logoColor=white) 
+  ![Static Badge](https://img.shields.io/badge/c%23-blue.svg?style=for-the-badge&logo=csharp&logoColor=white)
+  
+</div>
 
 ## Quais são os meus objetivos 🔭?
 
@@ -17,7 +24,7 @@ Sigo em frente com esta frase sempre em mente:
 
 ## O que estou estudando atualmente 🌱?
 
-Atualmente estou aprendendo os fundamentos do NestJs e aplicando de forma prática o conceito de Injeção de dependência, criação de controllers, modules e services, além de implementar o código anteriormente criado (04-clean-DDD) na parte de infraestrutura da aplicação. Utilizando ferramentas como Zod para validação e Vitest para tests unitários e end-to-end.
+Após ter concluído o curso de NodeJs, aplicando todos os conhecimentos de Solid, DDD e Clean Architecture com o NestJs, docker e prisma; percebi que deveria me aprimorar um pouco mais nessa área do backend por notar uma maior dificuldade para mim, então estou atualmente iniciando o curso de C# para o backend também pela plataforma RocketSeat para me aprimorar cada vez mais
 
 ### Aprendizados Concluídos
 
