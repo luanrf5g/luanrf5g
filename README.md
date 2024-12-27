@@ -32,6 +32,7 @@ Após ter concluído o curso de NodeJs, aplicando todos os conhecimentos de Soli
 - Rotas e HTTP criando uma aplicação usando Fastify, Knex e outras ferramentas.
 - Conceito de SOLID, Design Pattern e Utilização do Docker para o banco de dados.
 - Fundamentos do Domain-Driven Design e Clean Architecture em uma API REST.
+- Fundamentos do C# e de sua aplicação na programção backend
 
 ## O que estou buscando 🤔?
 
