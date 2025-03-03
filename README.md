@@ -24,15 +24,23 @@ Sigo em frente com esta frase sempre em mente:
 
 ## O que estou estudando atualmente 🌱?
 
-Após ter concluído o curso de NodeJs, aplicando todos os conhecimentos de Solid, DDD e Clean Architecture com o NestJs, docker e prisma; percebi que deveria me aprimorar um pouco mais nessa área do backend por notar uma maior dificuldade para mim, então estou atualmente iniciando o curso de C# para o backend também pela plataforma RocketSeat para me aprimorar cada vez mais
+Atualmente estou na etapa de ensinamento do SOLID do curso de C# e .NET também através da plataforma de RocketSeat, pois após finalizar o curso de NodeJs decidi me aprimorar em back-end por ser a minha área mais defasada. 
 
 ### Aprendizados Concluídos
+
+#### NodeJS
 
 - Fundamentos do NodeJs, sem frameworks ou bibliotecas externas.
 - Rotas e HTTP criando uma aplicação usando Fastify, Knex e outras ferramentas.
 - Conceito de SOLID, Design Pattern e Utilização do Docker para o banco de dados.
 - Fundamentos do Domain-Driven Design e Clean Architecture em uma API REST.
-- Fundamentos do C# e de sua aplicação na programção backend
+
+#### C# e .NET
+
+- Fundamentos do C# e de sua aplicação na programção backend.
+- Validação e tratativa de Erros com Exception customizada.
+- Errors Messages customizadas com localização de idioma através das Resources.
+- Testes Unitários, Banco de dados MySQL, Injeção de Dependência, Assincronismo e Mapeamento de classes.
 
 ## O que estou buscando 🤔?
 
